@@ -1,0 +1,14 @@
+ h1{
+    text-align:center;
+    text-decoration:underline;
+}
+
+.item{
+    display:flex;
+    justify-content:space-around;
+}
+
+img{
+    width:200px;
+    height:200px;
+}
